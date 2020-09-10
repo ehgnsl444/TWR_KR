@@ -1,0 +1,142 @@
+﻿l_english:
+
+#Description
+
+#Research Groups
+
+#### TRAITS ####
+
+#### Cosmetic Tags ####
+
+#### Decisions ####
+
+#### Autonomy Strings ####
+
+#### Ideas ####
+
+#### Focuses ####
+
+QUE_Le_Quebec_Libre:0 "Le Québec Libre!"
+QUE_Provisional_Govt:0 "Forming the Provisional Government"
+QUE_New_Army:0 "A New Army"
+QUE_New_Flag:0 "The Flag Debate"
+QUE_First_Elections:0 "Call for New Elections"
+
+QUE_Pat_Victory:0 "Crediitistes Victory!"
+QUE_Pat_Victory_desc:0 ""
+QUE_Pat_Education:0 "Catholic Education"
+QUE_Pat_Education_desc:0 ""
+QUE_Pat_Spirit:0 "Traditionalist Spirit"
+QUE_Pat_Spirit_desc:0 ""
+QUE_Pat_White_Berets:0 "Glory To The White Berets!"
+QUE_Pat_White_Berets_desc:0 ""
+QUE_Pat_AB:0 "A+B Theorem"
+QUE_Pat_AB_desc:0 ""
+QUE_Pat_Our_Own_Way:0 "Our Own Way"
+QUE_Pat_Our_Own_Way_desc:0 ""
+QUE_Pat_Electors:0 "The Union of Creditiiste Electors"
+QUE_Pat_Electors_desc:0 ""
+QUE_Pat_Isolation:0 "Quebecois Isolationism"
+QUE_Pat_Isolation_desc:0 ""
+QUE_Pat_Germans:0 "Open Up To The Germans"
+QUE_Pat_Germans_desc:0 ""
+QUE_Pat_Antizionist:0 "Destroy Zionist Influence"
+QUE_Pat_Antizionist_desc:0 ""
+QUE_Pat_Fuck_Unions:0 "Eradicate Leftist Unions"
+QUE_Pat_Fuck_Unions_desc:0 ""
+QUE_Pat_Economics:0 "Social Credit Economics"
+QUE_Pat_Economics_desc:0 ""
+QUE_Pat_Nationalization:0 "Resource Nationalization"
+QUE_Pat_Nationalization_desc:0 ""
+QUE_Pat_Never_Again:0 "Never Another Montreal"
+QUE_Pat_Never_Again_desc:0 ""
+QUE_Pat_Vaterland:0 "The Christian Nationalist Fatherland!"
+QUE_Pat_Vaterland_desc:0 ""
+
+QUE_Lib_Victory:0 "MSN Victory!"
+QUE_Lib_Victory_desc:0 ""
+QUE_Lib_Tolerance:0 "A Tolerant Republic"
+QUE_Lib_Tolerance_desc:0 ""
+QUE_Lib_Federalism:0 "Cooperative Federalism"
+QUE_Lib_Federalism_desc:0 ""
+QUE_Lib_Common_Currency:0 "A Common Currency?"
+QUE_Lib_Common_Currency_desc:0 ""
+QUE_Lib_Pan_American_Union:0 "The Pan-American Union"
+QUE_Lib_Pan_American_Union_desc:0 ""
+
+QUE_LibSD_Secular:0 "The Secularization Project"
+QUE_LibSD_Secular_desc:0 ""
+QUE_LibSD_Immigration:0 "Relax Immigration"
+QUE_LibSD_Immigration_desc:0 ""
+QUE_LibSD_Culture:0 "Promote Quebecois Culture"
+QUE_LibSD_Culture_desc:0 ""
+QUE_LibSD_Welfare:0 "Social Welfare Reforms"
+QUE_LibSD_Welfare_desc:0 ""
+QUE_LibSD_Minorities:0 "Rights for Minotiries"
+QUE_LibSD_Minorities_desc:0 ""
+
+QUE_SD_Victory:0 "RIN Victory!"
+QUE_SD_Victory_desc:0 ""
+QUE_SD_Unions:0 "Empower the Unions"
+QUE_SD_Unions_desc:0 ""
+QUE_SD_Nationalization:0 "Nationalize Key Industries"
+QUE_SD_Nationalization_desc:0 ""
+QUE_SD_Fuck_Tankies:0 "Weed Out Extremists"
+QUE_SD_Fuck_Tankies_desc:0 ""
+QUE_SD_AVG:0 "The Revolutionary Avante-Guarde"
+QUE_SD_AVG_desc:0 ""
+
+QUE_Con_Victory:0 "Ralliement Nationale Victory!"
+QUE_Con_Victory_desc:0 ""
+QUE_Con_Anglos:0 "Status of the Anglo-Quebecers"
+QUE_Con_Anglos_desc:0 ""
+QUE_Con_Values:0 "Maintain Christian Values"
+QUE_Con_Values_desc:0 ""
+QUE_Con_Education:0 "Education Subsidies"
+QUE_Con_Education_desc:0 ""
+QUE_Con_Econ:0 "Modified Social Credit Economics"
+QUE_Con_Econ_desc:0 ""
+QUE_Con_Family:0 "Supporting the Christian Family"
+QUE_Con_Family_desc:0 ""
+QUE_Con_Development:0 "Resource Development Projects"
+QUE_Con_Development_desc:0 ""
+QUE_Con_Unemployment:0 "Unemployment Benefits"
+QUE_Con_Unemployment_desc:0 ""
+QUE_Con_Unions:0 "Controlling the Unions"
+QUE_Con_Unions_desc:0 ""
+QUE_Con_Housing:0 "National Housing Act"
+QUE_Con_Housing_desc:0 ""
+QUE_Con_Relief:0 "Agricultural Relief Legislation"
+QUE_Con_Relief_desc:0 ""
+QUE_Con_Catholic:0 "A New, Catholic Republic"
+QUE_Con_Catholic_desc:0 ""
+
+### Army ###
+
+### Air Force ###
+
+### Navy ###
+
+#### Politics ####
+
+#### FORIEGN POLICY ####
+
+#### Flags ####
+QUE_FIRST_ELECTIONS_HELD:0 "§YThe First Elections have been held§!"
+
+#### Tooltips ####
+
+#### Opinion Modifiers ####
+
+#### Events ####
+twrquebec.1.t:0 "The Flag Debate"
+twrquebec.1.d:0 "Now that Quebec is finally free, there only lies the question of what our new flag will be. Multiple factions within the interim government are bitterly torn on this question (as they are with every other subject) and have finally settled on two alternatives. There is the current flag used by Quebec introduced by former premier Duplessis in 1948, with heavy influence from the Kingdom of France. The more modern and secular alternative is the revolutionary tricolour used by Papineau and the Partie Patriote during the Lower Canada Rebellion of 1838, ablaze in green red and white. After being put to a vote in the assembly, the final choice for our new republic's flag is..."
+twrquebec.1.a:0 "The Fleurdelisé!"
+twrquebec.1.b:0 "The Tricolore!"
+
+twrquebec.2.t:0 "The [GetYear] General Election"
+twrquebec.2.d:0 "With Quebec finally free from Anglo rule, we are free to hold our first ever free elections as an independent nation."
+twrquebec.2.a:0 "The Creditistes come in with a suprise victory"
+twrquebec.2.b:0 "The RN secures control"
+twrquebec.2.c:0 "A victory for the MSA"
+twrquebec.2.e:0 "The RIN wins the elections"

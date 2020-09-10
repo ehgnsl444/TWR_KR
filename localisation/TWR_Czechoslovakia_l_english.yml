@@ -1,0 +1,196 @@
+﻿l_english:
+#Description
+############SLOVAKIA###########
+slovakia.1.t:0 "Protests at Slovak University"
+slovakia.1.d:0 "The collapse of German authority has raised doubts about the legitimacy and strength of the Tiso Regime. A crowd gathered on the grounds of Slovak University, demanding the Slovakian Government sever it's ties with former Axis nations and uphold Slovakian nationhood. Leaflets and speeches brought more and more people to the University, and the numbers of protestors grew drastically. The guards sent by Slovak Government reported that they are outnumbered and will not be able to control the situation, with some even being reported to have joined the protestors."
+slovakia.1.a:0 "Send in reinforcements!"
+slovakia.2.t:0 "The Bratislava March"
+slovakia.2.d:0 "The chanting crowds, disappointed at the lack of official responds for their demands, decided to march towards government buildings in Bratislava. During the marches, bystanders joined, the call for reform turned into chants for the removal of Tiso. The police that were sent to control the crowds had no choice but to retreat, however the protestors were finally stopped at the gates of the Government Office. They were greeted by a line of soldiers and sandbags, armed with rifles and standing tall against the protestors."
+slovakia.2.a:0 "End this pesky protest!"
+slovakia.3.t:0 "Bratislava Coup d'etat"
+slovakia.3.d:0 "Shockingly, when the soldiers were commanded to open fire, they refused the order and defected to the protestors' side, opening the gates of the Government Building to the protestors. Later on, the Slovak Armed Forces have declared their open defiance against the Tiso Regime, proclaiming their loyalty to the Slovakian people. With Germany unable to reinforce him, Tiso received advice from Germany that he should seek support from Horthy's regime in Hungary to crush the disloyal military forces and end the revolt, while the military offered Tiso safety if he promises to surrender his power to the new regime."
+slovakia.3.a:0 "Seek Hungarian support!"
+slovakia.3.b:0 "Tiso agrees to resign."
+slovakia.4.t:0 "Hungarian Control"
+slovakia.4.d:0 "Hungary accepted Tiso's request and has directed a division of Hungarian soldiers to Slovakia. While the Hungarians effectively crushed the rebellious Slovakians and kept Tiso's regime in power, in reality, Slovakia has surrendered its rights to Hungary, becoming a facto puppet state. Was this the right price to pay for stability?"
+slovakia.4.a:0 "Well, as long as I am in charge..."
+slovakia.5.t:0 "Hungarians Refuse"
+slovakia.5.d:0 "The request made by Tiso has been ignored by Hungary, and the Slovakian military has successfully captured Tiso and his cabinet. While the military ensured their safety, they were forced to resign and surrender to the new Republic."
+slovakia.5.a:0 "Down with the Republic! Long live the Republic!"
+slovakia.6.t:0 "Hungarian Invasion"
+slovakia.6.d:0 "The Hungarians, threatened by the thought of a public revolution so close to its borders, have announced the newly created Republican Government illegal and used the excuse of "Restoring the Rightful Slovak Government" to launch a full scale invasion into Slovak lands. While most believe that this war is a lost cause for Slovakia, citizens from all ages are volunteering to defend the small nation. The young cabinet hopes to hold off the Hungarian offensive for long enough to gain a chance for peace negotiations."
+slovakia.6.a:0 "Slovaks! Unite!"
+slovakia.7.t:0 "The Vodca's Disgrace"
+slovakia.7.d:0 "Jozef Tiso, autocrat and founder of the Slovakian nation, has been forced out of power not with a fight nor a revolution but with a sigh and perhaps a sense of silent gratitude. His senality and ineffectual rule has lead to Slovakia's German ‘advisors' growing dissatisfied with the current national leadership, after all how is the Germanic sphere meant to present a strong united front if one of its first members is lead by an old fool! At the behest of orders from Germania itself Stefan Tiso, the Vodca's own cousin, has come forth to the assembly of the Slovak republic with a wide range of accusations from attempted reformism to gross abuse of power. The vote to depose Jozef Tiso was near unanimous, German supervisors made sure of that. In the aftermath of such a vote Stefan Tiso, a devoted party man and proud pro-German loyalist, expected that he would be granted the position as the new vodca of Slovakia however it seems that other interests within the Slovakian government have been eyeing up the position. \n\nAlexander Mach, minister of the interior and de facto head of the Hlinka Guard, has been making preparations of his own to seize leadership. The influence of the Hlinka Guard has spread across our armed forces, their brutes gerrymander members of the government into siding with them and their ties with the SS has made Mach a favourable successor in the eyes of our German benefactors. \n\nIf Mach were to take control than it would spell an end for Stefan Tiso and his entire clique and the implementation of a new and terrifying ultranationalist agenda as well as the expansion of the Hlinka guard into all sectors of Slovakian society much in the same vein as the German SS, however if Stefan Tiso were to hold on and grab this rare opportunity of power than it would secure German support for his own faction and prevent yet another expansion of the Hlinka faction. \n\nUltimately the only way to legitimately secure power for both of the competing factions is to be appointed successor by the Slovakian assembly and the successor is…"
+slovakia.7.a:0 "Alexander Mach, to a greater Slovakia!"
+slovakia.7.b:0 "Stefan Tiso, long live the status quo!"
+slovakia.8.t:0 "The Communist Offer"
+slovakia.8.d:0 "Recently, representatives from all socialist and communist parties of Slovakia arrived at our front door with a proposal in hand. Having focused on our own national identity due to the war with Hungary, the United Slovakian Red Front have proposed the co-operation of our government with their united party in order to fight as one united people. \n\nOn one hand, having the communists on our side will result in a stronger Slovakian people, on the other hand we would have to conceed parts of our government to those Bolsheviks..."
+slovakia.8.a:0 "We must unite the people no matter their ideas!"
+slovakia.8.b:0 "We don't make deals with Bolsheviks!"
+slovakia.100.t:0 "Slovakian Request"
+slovakia.100.d:0 "The Tiso Regime in Slovakia has requested our support in crushing the rebellions in Slovakia, allowing us to enter Slovak land and construct bases, seemingly giving themselves up to Hungarian authority."
+slovakia.100.a:0 "Send in the garrisons!"
+slovakia.100.b:0 "Ignore them. We have bigger fish to fry."
+slovakia.101.t:0 "Popular Revolt in Slovakia!"
+slovakia.101.d:0 "News of Slovakia's revolution that ended in the removal of Tiso Regime has shocked many in Hungary. While some suggest that Hungary should pay closer attention to the issues of Romania, many advisors call for an invasion of Slovakia - they fear that the revolt in Slovakia might inspire another in Hungary, sparking a chain reaction that threatens the Horthy Government itself."
+slovakia.101.a:0 "Raise our banners, invade Slovakia!"
+slovakia.101.b:0 "The Romanian threat is greater than this."
+#Research Groups
+
+
+
+
+#### TRAITS ####
+
+
+#WT
+
+
+#### Decisions ####
+
+
+#### Ministers ####
+SLO_HoG_Stefan_Tiso:0 "Štefan Tiso"
+SLO_HoG_Jozef_Tiso:0 "Jozef Tiso"
+SLO_HoG_Jozef_Lettrich:0 "Jozef Lettrich"
+SLO_FM_Stefan_Tiso:0 "Štefan Tiso"
+SLO_FM_Jozef_Tiso:0 "Jozef Tiso"
+SLO_FM_Jozef_Lettrich:0 "Jozef Lettrich"
+SLO_AM_Stefan_Tiso:0 "Štefan Tiso"
+SLO_AM_Jozef_Lettrich:0 "Jozef Lettrich"
+SLO_MoS_Alexander_Mach:0 "Alexander Mach"
+SLO_MoS_Otomar_Kubala:0 "Otomar Kubala"
+SLO_MoS_Augustin_Malar:0 "Augustín Malár"
+SLO_CoNavy_Vacant:0 "Vacant"
+SLO_CoStaff_Ferdinand_Catlos:0 "Ferdinand Čatloš"
+SLO_CoStaff_Viliam_Talsky:0 "Viliam Talský"
+SLO_CoArmy_Ferdinand_Catlos:0 "Ferdinand Čatloš"
+SLO_CoArmy_Jan_Golian:0 "Ján Golian"
+SLO_CoAir_Jan_Reznak:0 "Ján Režňák"
+SLO_CoAir_Rudolf_Bozik:0 "Rudolf Božík"
+
+Jozef_Tiso_DESC:0 "A politician and a Roman Catholic priest, Jozef Tiso headed the Slovak People's Party since 1938. After the collapse of Czechoslovakia, Jozef Tiso was offered the position as the president of a 'Free', 'Independent' Slovak Republic under German influence, an offer which Tiso welcomed with open arms.\n\nBeing a priest during his early days, Tiso fought against local poverty and alcoholism in Slovakia, in which his deeds have been overshadowed by the portfolio that he built as the President of Slovakia. According to the Czechoslovak National Army in Slovakia, Jozef Tiso is brutal in terms of suppressing any types of resistance, with a dark history of collaborating with Germany in deportations of Jews."
+
+#### Autonomy Strings ####
+
+
+#### Ideas ####
+SLO_Remnants_of_Czechoslovakia:0 "Remnants of Czechoslovakia"
+SLO_Remnants_of_Czechoslovakia_desc:0 "Czechoslovakia didn't vanish with its statehood. For years, Czechoslovak resistance remained active in both Bohemia-Moravia and Slovakia, with the sole goal of riving Czechoslovakia as an independent, united, democratic nation."
+SLO_Hlinka_Influence:0 "Hlinka Influence"
+SLO_Hlinka_Influence_desc:0 "The Hlinka Guards are an important factor to the Slovakian military. By using their military might and manpower, the Hlinkas have managed to obtain influence over the Slovak government, pledging their loyalty to the party and the government while enforcing their own agenda into governmental policies."
+SLO_German_Influence:0 "German Influence"
+SLO_German_Influence_desc:0 "Being a close partner of Germany, the Slovak Republic is heavily influenced by Nazi Germany. This relationship virtually functions as an Overlord-Puppet situation, with all aspects ranging from Slovakia's economy, military, and diplomatic policy heavily influenced by German 'advisors'."
+SLO_Strong_German_Hand:0 "Strong German Hand"
+SLO_Hlinka_in_the_Government:0 "Hlinka in the Government"
+SLO_A_Strong_Slovak_Military:0 "A Strong Slovak Military"
+SLO_Status_Quo_in_Government:0 "Status Quo in Government"
+SLO_Revival_of_Czechoslovakian_Ideas:0 "Revival of Czechoslovakian Ideas"
+SLO_The_Czechoslovak_Army:0 "The Czechoslovak Army"
+SLO_Slovakia_Alone:0 "Slovakia Alone"
+SLO_Co-operation_with_Communists: "Co-operation with Communists"
+SLO_Isolated_from_Outsiders:0 "Isolated from Outsiders"
+SLO_Slovakia_For_Itself:0 "Slovakia for Itself"
+SLO_Defense_of_Bratislava:0 "Defense of Bratislava"
+SLO_Down_with_the_nationalists:0 "Suppressed Slovakian Nationalism"
+### Army ###
+
+
+
+### Air Force ###
+
+
+
+### Navy ###
+
+
+
+#### Politics ####
+SLO_Crisis_Averted:0 "Crisis Averted"
+SLO_Crisis_Averted_desc:0 "While Germania burns we stand firm. The traitors and subhumans still plaguing our lands have been defeated and stability has returned once again to our lands. \n\nThe Gestapo is already scouring the streets to crush any leftover resistance and dozens of captured resistance leaders are to meet a shallow grave in the following weeks."
+SLO_Reaffirm_Nationalist_Leadership:0 "Reaffirm the Nationalist Leadership"
+SLO_Reaffirm_Nationalist_Leadership_desc:0 "The chaos of the past weeks have greatly damaged the credibility of our regime. Not only have we provided dissenters in our halls ample ammunition to discredit our regime we have also alienated our German patrons. In the next couple month peace at home and trust abroad will have to be rebuild."
+SLO_Increase_German_Investments:0 "Increase German Investments"
+SLO_Increase_German_Investments_desc:0 "Despite the raging inferno that Europe once more has become we still stand firmly at Germany's side, to regain our patrons trust we shall further entwine our economies by allowing German conglomerates like Siemens and Farben to invest into our country."
+SLO_Prepare_for_Retirement:0 "Tiso Sidelined"
+SLO_Prepare_for_Retirement_desc:0 "Jozef Tiso has for almost two decades now firmly led our country. Under his guidance we have become a proud brother of the Germans and saw degeneracy crushed and prosperity increase. Yet his follies in the last couple month brought us to the brink of the civil war. Tiso has slipped and to make sure that his legacy remains one of glory it is time to look for a younger face."
+SLO_Stefan_Leadership:0 "President Tiso"
+SLO_Stefan_Leadership_desc:0 "Ironically advocating the status quo. Another President Tiso has emerged. Surely this means a time of prosperity for the Slovak State as the glorious policies of the past are continued undeterred."
+SLO_Hlinka_In_Power:0 "President Mach"
+SLO_Hlinka_In_Power_desc:0 "The long leader of the Hlinka Guard Alexander Mach has emerged as the new President of the Slovak State. Surely this means a time of strength as Mach has promised to expand the SS inspired militias and Hj inspired youth organizations."
+SLO_Expand_the_Slovak_Army:0 "Expand the Slovak Army"
+SLO_Expand_the_Slovak_Army_desc:0 "With rebels, Jews and communists still aplenty in the Slovak state we will need a sharp sword to cut them down all. The glorious Slovak Army shall be our sword and shield in the coming years."
+SLO_Upholding_Status_Quo:0 "Upholding the Status Quo"
+SLO_Upholding_Status_Quo_desc:0 "President Tiso brought peace and prosperity to our lands. Even if his mind has slipped as he aged such things are only natural. We shall continue his policies so that he may rest easy knowing that his dream won't go lightly."
+SLO_Favouring_the_Hlinka:0 "Favouring the Hlinka"
+SLO_Favouring_the_Hlinka_desc:0 "Modelled after the SS the Hlinka guard has served us well for nigh two decades crushing Jews, communists and opposition. President Mach has decreed that their loyalty is to be rewarded and their tools and training is to be expanded so that they may truly rival the SS finest."
+SLO_Crush_Czechoslovak_Ideas:0 "Crush the Czechoslovak Idea"
+SLO_Crush_Czechoslovak_Ideas_desc:0 "The most dangerous idea haunting resistance hideouts the idea of an equal Czechoslovak union truly deserves special attention to be thoroughly squashed. We stand proud atop alone and the people ought to remember that. Forever."
+
+SLO_Germany_in_Chaos:0 "Germany in Chaos"
+SLO_Germany_in_Chaos_desc:0 "Like the Hunnic empire of yore, the conquered lands fall into chaos upon the death of the great unifier. Now with the second Attila dead his sons are fighting over the carcass. After barely a decade of peace the air in Europe is once again ripe with the smell of shrapnel and the dead."
+SLO_Slovakian_Spring:0 "Slovakian Spring"
+SLO_Slovakian_Spring_desc:0 "Die Neue Ordnung lays dead and we are doing our part to deliver another dagger into it. Sensing the Master of Europe in turmoil thousands have took to the streets to protest the huns regime. Militias are already forming and soon much more organized armies will be marching..."
+SLO_National_Liberation_Government:0 "National Liberation Coalition"
+SLO_National_Liberation_Government_desc:0 "The second Attila lies dead and we are to do our part that he shall never be reincarnated again. No foreign boot shall ever press our face into the dirt as we watch our home, peoples and nation being raped and burned. Death to the Huns! Death to the Traitors!"
+SLO_Hungarian_Sponsored_Government:0 "Hungarian Sponsored Government"
+SLO_Hungarian_Sponsored_Government_desc:0 "Our friends and brothers the Hungarians have come to us in our darkest hour to deliver us from our peoples foolish pleas! All we have to do is grant them a not so small say in our government and soon things will be back to as they were!"
+SLO_War_of_National_Liberation:0 "War of Liberation"
+SLO_War_of_National_Liberation_desc:0 "The Germans in their legendary stubbornness won't go quietly into the night, they shall rage against us and burn everything to the ground with it. Even now as the leash slips their lap dogs still sheepishly follow their commands. We will meet them all the same. With the end of a rifle."
+SLO_Czechoslovak_Values:0 "Czechoslovak Ideals"
+SLO_Czechoslovak_Values_desc:0 "While used and made mockery of by the Germans, the idea of Czechoslovakia itself remain pure and untarnished. Alone we are but a drop in the ocean, together we shall be a rolling tide that shall drown any foreign slave masters and flush out any foreign corruption."
+SLO_Slovakia_Statehood:0 "Slovakian Statehood"
+SLO_Slovakia_Statehood_desc:0 "The idea of Czechoslovakia, while noble, has been forever corrupted by hunnic boot. If we are ever to be free of foreign collars we must throw off mental as physical ones. Long live Slovakia!"
+SLO_Contact_the_Exiles:0 "Contact the Exiles"
+SLO_Contact_the_Exiles_desc:0 "Many of our brightest minds and thinkers have fled abroad lest they be killed or imprisoned. Now that the time has come to strike the giant down, we shall invite them back into our lands so that they shall see his death throes for themselves."
+SLO_Raise_the_Czechoslovakian_Army:0 "Raise the Czechoslovakian Army"
+SLO_Raise_the_Czechoslovakian_Army_desc:0 "A reborn state needs an army, and we shall provide. The high command shall consist of equal amount of Czech and Slovak generals while the respective ethnicities retain some autonomy in their lands. In times of emergency this autonomy can be overruled as to not destabilize the front in pointless bickering."
+SLO_Czechoslovakian_Brotherhood:0 "Czechoslovakian Brotherhood"
+SLO_Czechoslovakian_Brotherhood_desc:0 "From thenceforth the destiny of Czech and Slovakia shall forever be the same. Our cultures may be different but our spirit is the same. The Reichs iron fist main loom above and to the south the Hungarians are greedily watching but we shall face them all the same, together united."
+SLO_Rid_Slovakia_of_External_Influence:0 "Rid Slovakia of External Influence"
+SLO_Rid_Slovakia_of_External_Influence_desc:0 "For Slovakia to be free there must be zero tolerance for any shackle, no matter how comfortable it may be. Militias are to be advised to root out any organization, individuals or companies that have in any way played a part in keeping us as slaves. Maximum force authorized."
+SLO_Slovakian_Nationalism:0 "Slovakian Nationalism"
+SLO_Slovakian_Nationalism_desc:0 "While our lives may be feeble, the idea of Slovakia is immortal. Even if we fail, are shackled or eviscerated the dream of Slovakia shall live on. No matter the jailor no matter their strength. We shall endure and rise up from the ashes again."
+SLO_Cooperate_With_Communists:0 "Cooperate with the Communists"
+SLO_Cooperate_With_Communists_desc:0 "The communists may see things different in many ways, so different that we may have to put them in line one way or another once this inferno is over, but they too seethe as with as much hatred for the Germans and their lap dogs as we do."
+SLO_Shining_Democracy_of_Central_Europe:0 "Shining Democracy of Central Europe"
+SLO_Shining_Democracy_of_Central_Europe_desc:0 "The light of democracy burns with but a candles strength in these times, totalitarianism reigns supreme and with things are looking may for many years to come. But we shall not falter. We may be a small firefly in a grave of ashes but we shall glow in the night stronger than any star."
+SLO_Bratislava_Line:0 "Bratislava Line"
+SLO_Bratislava_Line_desc:0 "Bratislava our glorious capital lies dangerously close to the german border. In fact from its location it almost sits in the vultures nest itself. Even with the Germans fighting themselves we must fear that they will attempt to strike against us from their lands. This however also makes it the perfect bait. With the Germans being tipsy to cut our head off with a fell swoop heavily fortifying the area might just make them march to their death."
+SLO_Total_War:0 "Total War"
+SLO_Total_War_desc:0 "Clubfoot Goebbels postured the theory of total war. The total mobilization of the Germans flesh and spirit to strike down the entire world. He seems pretty eager for it so we shall answer in kind. We will fight in the forests, we will fight on the riverbanks and we will not rest even should they bring us down to one man!"
+SLO_Return_to_German_Influence:0 "Return to German Influence"
+SLO_Return_to_German_Influence_desc:0 "We were wrong to ever abandon the greatest empire europe has ever seen! With the resistance squashed and our Hungarian brothers having breathed new life into our nation it is time to return to the guidance of the true master of europe."
+SLO_Introduce_Hungarian_Advisors:0 "Introduce Hungarian Advisors"
+SLO_Introduce_Hungarian_Advisors_desc:0 "Our Hungarian brothers cannot aid us to the best of their abilities without seeing for themselves the many perils at home. We shall introduce a good dozend Hungarian advisors in all facets of the government to truly cement our nations friendship and unity."
+SLO_Suppress_Anti_Hungarian_Nationalism:0 "Suppress Slovak Nationalism"
+SLO_Suppress_Anti_Hungarian_Nationalism_desc:0 "The greatest peril to peace and stability in our lands are truly foul Slovakian ideas of \"Statehood\", \"Autonomy\" and \"Independence\" we must act quick and determined to cut this snakes head off before it can dig its fangs further into our arm."
+SLO_Hungarian_Slovakian_Partnership:0 "Hungarian-Slovak Partnership"
+SLO_Hungarian_Slovakian_Partnership_desc:0 "With our nation having over the course of the last few months grown ever more entwined it is time to truly cement this by signing the ‘Treaty of Amity and Commerce' to further entwine our nation's destiny for a thousand years to come!"
+SLO_Destroy_the_Resistance:0 "Destroying the Resistance"
+SLO_Destroy_the_Resistance_desc:0 "The time has come to squash the last of the uprisings, the newly reformed Slovak Intelligence service under Hungarian guidance is poised to arrest and vanish known troublemakers and the police - supplied with military firepower - to use maximum force against remaining resistance cells."
+
+#### FORIEGN POLICY ####
+
+
+
+#### Flags ####
+
+
+
+#### Tooltips ####
+slovakMach:0 "§RAlexander Mach is put into power as the new leader of Slovakia!§&"
+slovakStefan:0 "§GStefan Tiso is put into power as the new leader of Slovakia!§&"
+slovakNoMoreGermany:0 "§RGermany is no longer around and our state remains in a uncertain position...§&"
+slovakSpring:0 "§RThe people are rising up against us! We must act now!§&"
+slovakresign:0 "§GWith the resignation of Tiso, Slovakia has returned back to its democratic roots!§&"
+slovakAverted:0 "§GStability has returned and we can continue with business as usual.§&"
+slovakCommies:0 "§YWe must decide what we will do with the offer the Communists have brought to us...§&"
+slovakWar:0 "§RWe must defend our country from the claws of the Hungarian fascists!§&"
+slovakHungary:0 "§YOur government is saved thanks to the Hungarians...but at what cost?§&"
+
+#### Opinion Modifiers ####
+
+
+#### Events ####

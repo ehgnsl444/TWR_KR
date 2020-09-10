@@ -1,0 +1,5 @@
+﻿l_english:
+ twr_switzerland.1.t:0 "Swiss Government Restored"
+ twr_switzerland.1.d:0 "While the Swiss Government fled to London upon the defeat in Operation Tannenbaum, the Secret Army was established and tasked with undermining the occupation. And while the Secret Army caused havoc for the German authorities, the Government-in-Exile was relocated to London, preparing for the liberation that has finally come.\n\nUpon the liberation of Switzerland, the Government-in-Exile has been invited back to to their homeland, allowing the exiles to return and restore democratic rule over the country."
+ twr_switzerland.1.a:0 "Neutrality forevermore!"
+ return_of_swiss_exile_government:0 "Restore the Swiss Government-in-Exile"
