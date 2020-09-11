@@ -1,6 +1,5 @@
 ## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
 ### 안내 및 경고
-- **[단어사전](단어사전.md)** 을 지켜주시며 본문 수정 부탁드립니다.
 - 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주시면 됩니다.
   - 필요시 [한글라이즈](https://hangulize.org)나 [한어병음/일문가나 한글표기 변환 도구](https://boncho.kiom.re.kr/tool/index.htm), 그리고 `Issue`탭을 활용해 주세요.
 - 이 외에 번역과 관련된 토론은 상단 `Issues` 탭에 올려주시면 답해드리겠습니다.
