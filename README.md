@@ -1,4 +1,4 @@
-## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/skullbe/Kaiserreich-Korean-Translation/wiki/%EA%B9%83%ED%97%88%EB%B8%8C-%EC%A0%80%EC%9E%A5%EB%B2%95)
+## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/Translation-Team/TWR_KR/wiki)
 ## 번역중인 문서 [(이 곳을 눌러 이동)](https://github.com/Translation-Team/TWR_KR/blob/master/%EB%B2%88%EC%97%AD%20%EB%AA%A9%EB%A1%9D.md)
 ### 안내 및 경고
 - 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주시면 됩니다.
