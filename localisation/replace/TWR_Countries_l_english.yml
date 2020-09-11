@@ -262,7 +262,7 @@
 #  HOL_fascist_DEF:0 "The Dutch Rijk"
 #  HOL_paternal_autocrat:0 "Kingdom of the Netherlands"
 #  HOL_paternal_autocrat_DEF:0 "The Kingdom of the Netherlands"
- 
+
 #  HOL_conservative:0 "Kingdom of the Netherlands"
 #  HOL_conservative_DEF:0 "The Kingdom of the Netherlands"
 #  HOL_liberal:0 "Kingdom of the Netherlands"
@@ -471,65 +471,65 @@
  LAT_socialist_ADJ:0 "Latvian"
 
  # Spain
- SPR_national_socialist:0 "Catalan State"
- SPR_national_socialist_DEF:0 "The Catalan State"
- SPR_fascist:0 "Catalan State"
- SPR_fascist_DEF:0 "The Catalan of Spain"
- SPR_paternal_autocrat:0 "Kingdom of Aragon"
- SPR_paternal_autocrat_DEF:0 "The Kingdom of Aragon"
+ SPR_national_socialist:0 "카탈루냐국"
+ SPR_national_socialist_DEF:0 "카탈루냐국"
+ SPR_fascist:0 "카탈루냐국"
+ SPR_fascist_DEF:0 "카탈루냐국"
+ SPR_paternal_autocrat:0 "아라곤 왕국"
+ SPR_paternal_autocrat_DEF:0 "아라곤 왕국"
 
- SPR_conservative:0 "Catalonia"
- SPR_conservative_DEF:0 "Catalonia"
- SPR_liberal:0 "Catalonia"
- SPR_liberal_DEF:0 "Catalonia"
- SPR_social_democrat:0 "Catalonia"
- SPR_social_democrat_DEF:0 "Catalonia"
+ SPR_conservative:0 "카탈로니아"
+ SPR_conservative_DEF:0 "카탈로니아"
+ SPR_liberal:0 "카탈로니아"
+ SPR_liberal_DEF:0 "카탈로니아"
+ SPR_social_democrat:0 "카탈로니아"
+ SPR_social_democrat_DEF:0 "카탈로니아"
 
- SPR_marxist_leninist:0 "Catalonia"
- SPR_marxist_leninist_DEF:0 "Catalonia"
- SPR_bolshevik_leninist:0 "Catalonia"
- SPR_bolshevik_leninist_DEF:0 "Catalonia"
- SPR_socialist:0 "Catalonia"
- SPR_socialist_DEF:0 "Catalonia"
+ SPR_marxist_leninist:0 "카탈로니아"
+ SPR_marxist_leninist_DEF:0 "카탈로니아"
+ SPR_bolshevik_leninist:0 "카탈로니아"
+ SPR_bolshevik_leninist_DEF:0 "카탈로니아"
+ SPR_socialist:0 "카탈로니아"
+ SPR_socialist_DEF:0 "카탈로니아"
 
- SPR_national_socialist_ADJ:0 "Catalan"
- SPR_fascist_ADJ:0 "Catalan"
- SPR_paternal_autocrat_ADJ:0 "Catalan"
- SPR_conservative_ADJ:0 "Catalan"
- SPR_liberal_ADJ:0 "Catalan"
- SPR_social_democrat_ADJ:0 "Catalan"
- SPR_marxist_leninist_ADJ:0 "Catalan"
- SPR_bolshevik_leninist_ADJ:0 "Catalan"
- SPR_socialist_ADJ:0 "Catalan"
+ SPR_national_socialist_ADJ:0 "카탈로니아"
+ SPR_fascist_ADJ:0 "카탈로니아"
+ SPR_paternal_autocrat_ADJ:0 "카탈로니아"
+ SPR_conservative_ADJ:0 "카탈로니아"
+ SPR_liberal_ADJ:0 "카탈로니아"
+ SPR_social_democrat_ADJ:0 "카탈로니아"
+ SPR_marxist_leninist_ADJ:0 "카탈로니아"
+ SPR_bolshevik_leninist_ADJ:0 "카탈로니아"
+ SPR_socialist_ADJ:0 "카탈로니아"
 
 # Nationalist Spain
- SPA_national_socialist:0 "Spanish State"
- SPA_national_socialist_DEF:0 "The Spanish State"
- SPA_fascist:0 "Spanish State"
- SPA_fascist_DEF:0 "The State of Spain"
- SPA_paternal_autocrat:0 "Spanish State"
- SPA_paternal_autocrat_DEF:0 "The State of Spain"
- SPA_conservative:0 "Republic of Spain"
- SPA_conservative_DEF:0 "The Republic of Spain"
- SPA_liberal:0 "Republic of Spain"
- SPA_liberal_DEF:0 "The Republic of Spain"
- SPA_social_democrat:0 "Republic of Spain"
- SPA_social_democrat_DEF:0 "The Republic of Spain"
- SPA_marxist_leninist:0 "People's Republic of Spain"
- SPA_marxist_leninist_DEF:0 "The People's Republic of Spain"
- SPA_bolshevik_leninist:0 "People's Republic of Spain"
- SPA_bolshevik_leninist_DEF:0 "The People's Republic of Spain"
- SPA_socialist:0 "People's Republic of Spain"
- SPA_socialist_DEF:0 "The People's Republic of Spain"
- SPA_national_socialist_ADJ:0 "Spanish"
- SPA_fascist_ADJ:0 "Spanish"
- SPA_paternal_autocrat_ADJ:0 "Spanish"
- SPA_conservative_ADJ:0 "Spanish"
- SPA_liberal_ADJ:0 "Spanish"
- SPA_social_democrat_ADJ:0 "Spanish"
- SPA_marxist_leninist_ADJ:0 "Spanish"
- SPA_bolshevik_leninist_ADJ:0 "Spanish"
- SPA_socialist_ADJ:0 "Spanish"
+ SPA_national_socialist:0 "스페인국"
+ SPA_national_socialist_DEF:0 "스페인국"
+ SPA_fascist:0 "스페인국"
+ SPA_fascist_DEF:0 "스페인국"
+ SPA_paternal_autocrat:0 "스페인국"
+ SPA_paternal_autocrat_DEF:0 "스페인국"
+ SPA_conservative:0 "스페인 공화국"
+ SPA_conservative_DEF:0 "스페인 공화국"
+ SPA_liberal:0 "스페인 공화국"
+ SPA_liberal_DEF:0 "스페인 공화국"
+ SPA_social_democrat:0 "스페인 공화국"
+ SPA_social_democrat_DEF:0 "스페인 공화국"
+ SPA_marxist_leninist:0 "스페인 인민공화국"
+ SPA_marxist_leninist_DEF:0 "스페인 인민공화국"
+ SPA_bolshevik_leninist:0 "스페인 인민공화국"
+ SPA_bolshevik_leninist_DEF:0 "스페인 인민공화국"
+ SPA_socialist:0 "스페인 인민공화국"
+ SPA_socialist_DEF:0 "스페인 인민공화국"
+ SPA_national_socialist_ADJ:0 "스페인"
+ SPA_fascist_ADJ:0 "스페인"
+ SPA_paternal_autocrat_ADJ:0 "스페인"
+ SPA_conservative_ADJ:0 "스페인"
+ SPA_liberal_ADJ:0 "스페인"
+ SPA_social_democrat_ADJ:0 "스페인"
+ SPA_marxist_leninist_ADJ:0 "스페인"
+ SPA_bolshevik_leninist_ADJ:0 "스페인"
+ SPA_socialist_ADJ:0 "스페인"
 
  ITA_national_socialist:0 "Italian Social Republic"
  ITA_national_socialist_DEF:0 "The Italian Social Republic"
@@ -3399,7 +3399,7 @@
  ZIM_marxist_leninist_ADJ:0 "Zimbabwean"
  ZIM_bolshevik_leninist_ADJ:0 "Zimbabwean"
  ZIM_socialist_ADJ:0 "Zimbabwean"
- 
+
  RHD_national_socialist:0 "Rhodesia"
  RHD_national_socialist_DEF:0 "Rhodesia"
  RHD_fascist:0 "Rhodesia"
@@ -3650,7 +3650,7 @@
  MTA_marxist_leninist_ADJ:0 "German"
  MTA_bolshevik_leninist_ADJ:0 "German"
  MTA_socialist_ADJ:0 "German"
- 
+
  ROS_national_socialist:0 "Reichskommissariat Ostland"
  ROS_national_socialist_DEF:0 "Reichskommissariat Ostland"
  ROS_fascist:0 "Reichskommissariat Ostland"
@@ -3867,7 +3867,7 @@
  RUR_marxist_leninist_ADJ:0 "German"
  RUR_bolshevik_leninist_ADJ:0 "German"
  RUR_socialist_ADJ:0 "German"
- 
+
  RSB_national_socialist:0 "Association of the Freed"
  RSB_national_socialist_DEF:0 "The Association of the Freed"
  RSB_fascist:0 "Association of the Freed"
@@ -4053,7 +4053,7 @@
  FFR_marxist_leninist_ADJ:0 "French"
  FFR_bolshevik_leninist_ADJ:0 "French"
  FFR_socialist_ADJ:0 "French"
- 
+
  FFP_national_socialist:0 "French State"
  FFP_national_socialist_DEF:0 "The French State"
  FFP_fascist:0 "French State"
@@ -4183,7 +4183,7 @@
  BEN_fascist:0 "Union of Free India"
  BEN_fascist_DEF:0 "The Union of Free India"
  BEN_paternal_autocrat:0 "Free State of Bengal"
- BEN_paternal_autocrat_DEF:0 "The Free State of Bengal" 
+ BEN_paternal_autocrat_DEF:0 "The Free State of Bengal"
  BEN_conservative:0 "Republic of Bengal"
  BEN_conservative_DEF:0 "The Republic of Bengal"
  BEN_market_liberal:0 "Republic of Bengal"
@@ -4191,7 +4191,7 @@
  BEN_liberal:0 "Republic of Bengal"
  BEN_liberal_DEF:0 "The Republic of Bengal"
  BEN_social_democrat:0 "Republic of Bengal"
- BEN_social_democrat_DEF:0 "The Republic of Bengal" 
+ BEN_social_democrat_DEF:0 "The Republic of Bengal"
  BEN_marxist_leninist:0 "Socialist Republic of Bengal"
  BEN_marxist_leninist_DEF:0 "The Socialist Republic of Bengal"
  BEN_bolshevik_leninist:0 "Socialist Republic of Bengal"
@@ -4208,7 +4208,7 @@
  BEN_marxist_leninist_ADJ:0 "Bengali"
  BEN_bolshevik_leninist_ADJ:0 "Bengali"
  BEN_socialist_ADJ:0 "Bengali"
- 
+
  RSS_national_socialist:0 "Rashtriya Swayamsevak Sangh"
  RSS_national_socialist_DEF:0 "The Rashtriya Swayamsevak Sangh"
  RSS_fascist:0 "Rashtriya Swayamsevak Sangh"
@@ -4239,13 +4239,13 @@
  RSS_marxist_leninist_ADJ:0 "Indian"
  RSS_bolshevik_leninist_ADJ:0 "Indian"
  RSS_socialist_ADJ:0 "Indian"
- 
+
  BUR_national_socialist:0 "Burmese Ethnic State"
  BUR_national_socialist_DEF:0 "The Burmese Ethnic State"
  BUR_fascist:0 "Burmese Ethnic State"
  BUR_fascist_DEF:0 "The Burmese Ethnic State"
  BUR_paternal_autocrat:0 "State of Burma"
- BUR_paternal_autocrat_DEF:0 "The State of Burma" 
+ BUR_paternal_autocrat_DEF:0 "The State of Burma"
  BUR_conservative:0 "Union of Burma"
  BUR_conservative_DEF:0 "The Union of Burma"
  BUR_market_liberal:0 "Union of Burma"
@@ -4253,7 +4253,7 @@
  BUR_liberal:0 "Union of Burma"
  BUR_liberal_DEF:0 "The Union of Burma"
  BUR_social_democrat:0 "Union of Burma"
- BUR_social_democrat_DEF:0 "The Union of Burma" 
+ BUR_social_democrat_DEF:0 "The Union of Burma"
  BUR_marxist_leninist:0 "Burmese People's Republic"
  BUR_marxist_leninist_DEF:0 "The Burmese People's Republic"
  BUR_bolshevik_leninist:0 "Burmese People's Republic"
@@ -4270,13 +4270,13 @@
  BUR_marxist_leninist_ADJ:0 "Burmese"
  BUR_bolshevik_leninist_ADJ:0 "Burmese"
  BUR_socialist_ADJ:0 "Burmese"
- 
+
  ASS_national_socialist:0 "Assamese Free State"
  ASS_national_socialist_DEF:0 "The Assamese Free State"
  ASS_fascist:0 "Assamese Free State"
  ASS_fascist_DEF:0 "The Assamese Free State"
  ASS_paternal_autocrat:0 "Assamese Princedom"
- ASS_paternal_autocrat_DEF:0 "The Assamese Princedom" 
+ ASS_paternal_autocrat_DEF:0 "The Assamese Princedom"
  ASS_conservative:0 "State of Assam"
  ASS_conservative_DEF:0 "The State of Assam"
  ASS_market_liberal:0 "State of Assam"
@@ -4284,7 +4284,7 @@
  ASS_liberal:0 "State of Assam"
  ASS_liberal_DEF:0 "The State of Assam"
  ASS_social_democrat:0 "State of Assam"
- ASS_social_democrat_DEF:0 "The State of Assam" 
+ ASS_social_democrat_DEF:0 "The State of Assam"
  ASS_marxist_leninist:0 "Assamese People's United Governments"
  ASS_marxist_leninist_DEF:0 "The Assamese People's United Governments"
  ASS_bolshevik_leninist:0 "Assamese People's United Governments"
@@ -4301,7 +4301,7 @@
  ASS_marxist_leninist_ADJ:0 "Assamese"
  ASS_bolshevik_leninist_ADJ:0 "Assamese"
  ASS_socialist_ADJ:0 "Assamese"
- 
+
  FAR_national_socialist:0 "Eastern Empire"
  FAR_national_socialist_DEF:0 "The Eastern Empire"
  FAR_fascist:0 "Eastern Empire"
@@ -4339,7 +4339,7 @@
  HYD_fascist:0 "Hyderabadi Empire"
  HYD_fascist_DEF:0 "The Hyderabadi Empire"
  HYD_paternal_autocrat:0 "Princely State of Hyderabad"
- HYD_paternal_autocrat_DEF:0 "The Princely State of Hyderabad" 
+ HYD_paternal_autocrat_DEF:0 "The Princely State of Hyderabad"
  HYD_conservative:0 "The Republic of Andhra Pradesh"
  HYD_conservative_DEF:0 "The The Republic of Andhra Pradesh"
  HYD_market_liberal:0 "The Republic of Andhra Pradesh"
@@ -4347,7 +4347,7 @@
  HYD_liberal:0 "The Republic of Andhra Pradesh"
  HYD_liberal_DEF:0 "The The Republic of Andhra Pradesh"
  HYD_social_democrat:0 "The Republic of Andhra Pradesh"
- HYD_social_democrat_DEF:0 "The The Republic of Andhra Pradesh" 
+ HYD_social_democrat_DEF:0 "The The Republic of Andhra Pradesh"
  HYD_marxist_leninist:0 "Telaganese Proletariat"
  HYD_marxist_leninist_DEF:0 "The Telaganese Proletariat"
  HYD_bolshevik_leninist:0 "Telaganese Bolshevik State"
@@ -4364,13 +4364,13 @@
  HYD_marxist_leninist_ADJ:0 "Telaganese"
  HYD_bolshevik_leninist_ADJ:0 "Telaganese"
  HYD_socialist_ADJ:0 "Telaganese"
- 
+
  TAM_national_socialist:0 "Imperial Madras"
  TAM_national_socialist_DEF:0 "Madras"
  TAM_fascist:0 "Imperial Madras"
  TAM_fascist_DEF:0 "Madras"
  TAM_paternal_autocrat:0 "Tamil Kingdom"
- TAM_paternal_autocrat_DEF:0 "The Tamil Kingdom" 
+ TAM_paternal_autocrat_DEF:0 "The Tamil Kingdom"
  TAM_conservative:0 "Tamil Federation"
  TAM_conservative_DEF:0 "The Tamil Federation"
  TAM_market_liberal:0 "Tamil Federation"
@@ -4378,7 +4378,7 @@
  TAM_liberal:0 "Tamil Federation"
  TAM_liberal_DEF:0 "The Tamil Federation"
  TAM_social_democrat:0 "Tamil Federation"
- TAM_social_democrat_DEF:0 "The Tamil Federation" 
+ TAM_social_democrat_DEF:0 "The Tamil Federation"
  TAM_marxist_leninist:0 "Madras Communes"
  TAM_marxist_leninist_DEF:0 "The Madras Communes"
  TAM_bolshevik_leninist:0 "Madras Communes"
@@ -4395,13 +4395,13 @@
  TAM_marxist_leninist_ADJ:0 "Tamil"
  TAM_bolshevik_leninist_ADJ:0 "Tamil"
  TAM_socialist_ADJ:0 "Tamil"
- 
+
  MAR_national_socialist:0 "Kingdom of Mysore"
  MAR_national_socialist_DEF:0 "The Kingdom of Mysore"
  MAR_fascist:0 "Kingdom of Mysore"
  MAR_fascist_DEF:0 "The Kingdom of Mysore"
  MAR_paternal_autocrat:0 "Kingdom of Mysore"
- MAR_paternal_autocrat_DEF:0 "The Kingdom of Mysore" 
+ MAR_paternal_autocrat_DEF:0 "The Kingdom of Mysore"
  MAR_conservative:0 "Kingdom of Mysore"
  MAR_conservative_DEF:0 "The Kingdom of Mysore"
  MAR_market_liberal:0 "Kingdom of Mysore"
@@ -4409,7 +4409,7 @@
  MAR_liberal:0 "Kingdom of Mysore"
  MAR_liberal_DEF:0 "The Kingdom of Mysore"
  MAR_social_democrat:0 "Kingdom of Mysore"
- MAR_social_democrat_DEF:0 "The Kingdom of Mysore" 
+ MAR_social_democrat_DEF:0 "The Kingdom of Mysore"
  MAR_marxist_leninist:0 "Republic of Mysore"
  MAR_marxist_leninist_DEF:0 "The Republic of Mysore"
  MAR_bolshevik_leninist:0 "Republic of Mysore"
@@ -4426,13 +4426,13 @@
  MAR_marxist_leninist_ADJ:0 "Mysorian"
  MAR_bolshevik_leninist_ADJ:0 "Mysorian"
  MAR_socialist_ADJ:0 "Mysorian"
- 
+
  KSH_national_socialist:0 "Kashmiri State"
  KSH_national_socialist_DEF:0 "Kashmiri State"
  KSH_fascist:0 "Islamic Azad Kashmir"
  KSH_fascist_DEF:0 "Islamic Azad Kashmir"
  KSH_paternal_autocrat:0 "Jammu and Kashmir"
- KSH_paternal_autocrat_DEF:0 "Jammu and Kashmir" 
+ KSH_paternal_autocrat_DEF:0 "Jammu and Kashmir"
  KSH_conservative:0 "Republic of Jammu and Kashmir"
  KSH_conservative_DEF:0 "Republic of Jammu and Kashmir"
  KSH_market_liberal:0 "Republic of Jammu and Kashmir"
@@ -4440,7 +4440,7 @@
  KSH_liberal:0 "Republic of Jammu and Kashmir"
  KSH_liberal_DEF:0 "Republic of Jammu and Kashmir"
  KSH_social_democrat:0 "Republic of Jammu and Kashmir"
- KSH_social_democrat_DEF:0 "Republic of Jammu and Kashmir" 
+ KSH_social_democrat_DEF:0 "Republic of Jammu and Kashmir"
  KSH_marxist_leninist:0 "Republic of Jammu and Kashmir"
  KSH_marxist_leninist_DEF:0 "Republic of Jammu and Kashmir"
  KSH_bolshevik_leninist:0 "Republic of Jammu and Kashmir"
@@ -4463,7 +4463,7 @@
  TRK_fascist:0 "Turkestani State"
  TRK_fascist_DEF:0 "The Turkestani State"
  TRK_paternal_autocrat:0 "Islamic State of Turkestan"
- TRK_paternal_autocrat_DEF:0 "The Islamic State of Turkestan" 
+ TRK_paternal_autocrat_DEF:0 "The Islamic State of Turkestan"
  TRK_conservative:0 "Turkestan Republic"
  TRK_conservative_DEF:0 "The Republic of Turkestan"
  TRK_market_liberal:0 "Turkestan Republic"
@@ -4471,7 +4471,7 @@
  TRK_liberal:0 "Turkestan Republic"
  TRK_liberal_DEF:0 "The Republic of Turkestan"
  TRK_social_democrat:0 "Turkestan Republic"
- TRK_social_democrat_DEF:0 "The Republic of Turkestan" 
+ TRK_social_democrat_DEF:0 "The Republic of Turkestan"
  TRK_marxist_leninist:0 "Turkestan Soviet Republic"
  TRK_marxist_leninist_DEF:0 "The Turkestan Soviet Republic"
  TRK_bolshevik_leninist:0 "Turkestan Soviet Republic"
@@ -4501,7 +4501,7 @@
  TRV_liberal:0 "Volga"
  TRV_liberal_DEF:0 "Republic Of The Volga"
  TRV_liberal_ADJ:0 "Volgan"
- 
+
  NRI_national_socialist:0 "New Sparta"
  NRI_national_socialist_DEF:0 "The New Spartan State"
  NRI_fascist:0 "Norilsk"
@@ -4648,7 +4648,7 @@
  HGR_fascist:0 "Emergency Wehrstaat"
  HGR_fascist_DEF:0 "The Emergency Wehrstaat"
  HGR_paternal_autocrat:0 "Emergency Wehrstaat"
- HGR_paternal_autocrat_DEF:0 "The Emergency Wehrstaat" 
+ HGR_paternal_autocrat_DEF:0 "The Emergency Wehrstaat"
  HGR_conservative:0 "Emergency Wehrstaat"
  HGR_conservative_DEF:0 "The Emergency Wehrstaat"
  HGR_market_liberal:0 "Emergency Wehrstaat"
@@ -4656,7 +4656,7 @@
  HGR_liberal:0 "Emergency Wehrstaat"
  HGR_liberal_DEF:0 "The Emergency Wehrstaat"
  HGR_social_democrat:0 "Emergency Wehrstaat"
- HGR_social_democrat_DEF:0 "The Emergency Wehrstaat" 
+ HGR_social_democrat_DEF:0 "The Emergency Wehrstaat"
  HGR_marxist_leninist:0 "Emergency Wehrstaat"
  HGR_marxist_leninist_DEF:0 "The Emergency Wehrstaat"
  HGR_bolshevik_leninist:0 "Emergency Wehrstaat"
@@ -4673,13 +4673,13 @@
  HGR_marxist_leninist_ADJ:0 "German"
  HGR_bolshevik_leninist_ADJ:0 "German"
  HGR_socialist_ADJ:0 "German"
- 
+
  HSS_national_socialist:0 "Schutzstaffel Ordensstaat"
  HSS_national_socialist_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_fascist:0 "Schutzstaffel Ordensstaat"
  HSS_fascist_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_paternal_autocrat:0 "Schutzstaffel Ordensstaat"
- HSS_paternal_autocrat_DEF:0 "The Schutzstaffel Ordensstaat" 
+ HSS_paternal_autocrat_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_conservative:0 "Schutzstaffel Ordensstaat"
  HSS_conservative_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_market_liberal:0 "Schutzstaffel Ordensstaat"
@@ -4687,7 +4687,7 @@
  HSS_liberal:0 "Schutzstaffel Ordensstaat"
  HSS_liberal_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_social_democrat:0 "Schutzstaffel Ordensstaat"
- HSS_social_democrat_DEF:0 "The Schutzstaffel Ordensstaat" 
+ HSS_social_democrat_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_marxist_leninist:0 "Schutzstaffel Ordensstaat"
  HSS_marxist_leninist_DEF:0 "The Schutzstaffel Ordensstaat"
  HSS_bolshevik_leninist:0 "Schutzstaffel Ordensstaat"
@@ -4705,7 +4705,7 @@
  HSS_bolshevik_leninist_ADJ:0 "German"
  HSS_socialist_ADJ:0 "German"
 
- 
+
  UNBR_RMO_national_socialist:0 "UNBR"
  UNBR_RMO_national_socialist_DEF:0 "Union Of National Bolshevik Republics"
  UNBR_RMO_national_socialist_ADJ:0 "UNBR"
@@ -4733,7 +4733,7 @@
  UNBR_RMO_bolshevik_leninist:0 "UNBR"
  UNBR_RMO_bolshevik_leninist_DEF:0 "Union Of National Bokshevik Republics"
  UNBR_RMO_bolshevik_leninist_ADJ:0 "UNBR"
- 
+
  ROM_TRV_conservative:0 "Volga Romana"
  ROM_TRV_conservative_DEF:0 "Republic Of Volga Romana"
  ROM_TRV_conservative_ADJ:0 "Volga Roman"
@@ -4746,7 +4746,7 @@
  ROM_TRV_liberal:0 "Volga"
  ROM_TRV_liberal_DEF:0 "Republic Of The Volga"
  ROM_TRV_liberal_ADJ:0 "Volgan"
- 
+
  ROMANRUSSIA_TRV_conservative:0 "Rossiya Romana"
  ROMANRUSSIA_TRV_conservative_DEF:0 "Republic Of Rossiya Romana"
  ROMANRUSSIA_TRV_conservative_ADJ:0 "Rossiya Roman"
@@ -4759,7 +4759,7 @@
  ROMANRUSSIA_TRV_liberal:0 "Russia"
  ROMANRUSSIA_TRV_liberal_DEF:0 "Republic Of Russia"
  ROMANRUSSIA_TRV_liberal_ADJ:0 "Russian"
- 
+
  SRU_TRV_conservative:0 "Volga Romana"
  SRU_TRV_conservative_DEF:0 "Republic Of Volga Romana"
  SRU_TRV_conservative_ADJ:0 "Volga Roman"
@@ -4773,13 +4773,13 @@
  SRU_TRV_liberal_DEF:0 "Republic Of South Russia"
  SRU_TRV_liberal_ADJ:0 "South Russian"
 
- 
+
  RYK_national_socialist:0 "Ryukyuan State"
  RYK_national_socialist_DEF:0 "The Ryukyuan State"
  RYK_fascist:0 "Ryukyuan State"
  RYK_fascist_DEF:0 "The Ryukyuan State"
  RYK_paternal_autocrat:0 "Ryukyu Kingdom"
- RYK_paternal_autocrat_DEF:0 "The Ryukyu Kingdom" 
+ RYK_paternal_autocrat_DEF:0 "The Ryukyu Kingdom"
  RYK_conservative:0 "State of Ryukyu"
  RYK_conservative_DEF:0 "The State of Ryukyu"
  RYK_market_liberal:0 "State of Ryukyu"
@@ -4787,7 +4787,7 @@
  RYK_liberal:0 "State of Ryukyu"
  RYK_liberal_DEF:0 "The State of Ryukyu"
  RYK_social_democrat:0 "State of Ryukyu"
- RYK_social_democrat_DEF:0 "The State of Ryukyu" 
+ RYK_social_democrat_DEF:0 "The State of Ryukyu"
  RYK_marxist_leninist:0 "United Republics of Ryukyu"
  RYK_marxist_leninist_DEF:0 "The United Republics of Ryukyu"
  RYK_bolshevik_leninist:0 "United Republics of Ryukyu"
@@ -4928,7 +4928,7 @@
  CDA_marxist_leninist_ADJ:0 "Cacasus Cossacks"
  CDA_bolshevik_leninist_ADJ:0 "Cacasus Cossacks"
  CDA_socialist_ADJ:0 "Cacasus Cossacks"
- 
+
  NOG_national_socialist:0 "Nogai"
  NOG_national_socialist_DEF:0 "Nogai"
  NOG_fascist:0 "Nogai"
@@ -4956,7 +4956,7 @@
  NOG_marxist_leninist_ADJ:0 "Nogai"
  NOG_bolshevik_leninist_ADJ:0 "Nogai"
  NOG_socialist_ADJ:0 "Nogai"
- 
+
  KMY_national_socialist:0 "Kumykia"
  KMY_national_socialist_DEF:0 "Kumykia"
  KMY_fascist:0 "Kumykia"
@@ -4984,7 +4984,7 @@
  KMY_marxist_leninist_ADJ:0 "Kumyk"
  KMY_bolshevik_leninist_ADJ:0 "Kumyk"
  KMY_socialist_ADJ:0 "Kumyk"
- 
+
  RAC_national_socialist:0 "Volga-Manych Army"
  RAC_national_socialist_DEF:0 "The Volga-Manych Army"
  RAC_fascist:0 "Volga-Manych Army"
@@ -5015,7 +5015,7 @@
  RAC_marxist_leninist_ADJ:0 "Volga-Manych"
  RAC_bolshevik_leninist_ADJ:0 "Volga-Manych"
  RAC_socialist_ADJ:0 "Volga-Manych"
- 
+
  LZG_national_socialist:0 "Lezgistan"
  LZG_national_socialist_DEF:0 "Lezgistan"
  LZG_fascist:0 "Lezgistan"
@@ -5114,7 +5114,7 @@
  SKM_fascist:0 "Kingdom of Sikkim"
  SKM_fascist_DEF:0 "Kingdom of Sikkim"
  SKM_paternal_autocrat:0 "Kingdom of Sikkim"
- SKM_paternal_autocrat_DEF:0 "The Kingdom of Sikkim" 
+ SKM_paternal_autocrat_DEF:0 "The Kingdom of Sikkim"
  SKM_conservative:0 "Kingdom of Sikkim"
  SKM_conservative_DEF:0 "Kingdom of Sikkim"
  SKM_market_liberal:0 "Kingdom of Sikkim"
@@ -5122,7 +5122,7 @@
  SKM_liberal:0 "Kingdom of Sikkim"
  SKM_liberal_DEF:0 "Kingdom of Sikkim"
  SKM_social_democrat:0 "Kingdom of Sikkim"
- SKM_social_democrat_DEF:0 "Kingdom of Sikkim" 
+ SKM_social_democrat_DEF:0 "Kingdom of Sikkim"
  SKM_marxist_leninist:0 "Socialist Republic ofSikkim"
  SKM_marxist_leninist_DEF:0 "Socialist Republic of Sikkim"
  SKM_bolshevik_leninist:0 "Socialist Republic of Sikkim"
@@ -5232,7 +5232,7 @@
  RAR_marxist_leninist_ADJ:0 "Russisch"
  RAR_bolshevik_leninist_ADJ:0 "Russisch"
  RAR_socialist_ADJ:0 "Russisch"
- 
+
  ZHU_national_socialist:0 "Zhukov's Union"
  ZHU_national_socialist_DEF:0 "The Zhukov's Union"
  ZHU_fascist:0 "Zhukov's Union"
@@ -5263,7 +5263,7 @@
  ZHU_marxist_leninist_ADJ:0 "Zhukovite"
  ZHU_bolshevik_leninist_ADJ:0 "Zhukovite"
  ZHU_socialist_ADJ:0 "Zhukovite"
- 
+
  MOL_national_socialist:0 "Molotov's Union"
  MOL_national_socialist_DEF:0 "The Molotov's Union"
  MOL_fascist:0 "Molotov's Union"
@@ -5294,7 +5294,7 @@
  MOL_marxist_leninist_ADJ:0 "Molotovite"
  MOL_bolshevik_leninist_ADJ:0 "Molotovite"
  MOL_socialist_ADJ:0 "Molotovite"
- 
+
  BLG_national_socialist:0 "Bulganin's Union"
  BLG_national_socialist_DEF:0 "The Bulganin's Union"
  BLG_fascist:0 "Bulganin's Union"
@@ -5325,7 +5325,7 @@
  BLG_marxist_leninist_ADJ:0 "Bulganinite"
  BLG_bolshevik_leninist_ADJ:0 "Bulganinite"
  BLG_socialist_ADJ:0 "Bulganinite"
- 
+
  KRU_national_socialist:0 "Kruglov's Union"
  KRU_national_socialist_DEF:0 "The Kruglov's Union"
  KRU_fascist:0 "Kruglov's Union"
@@ -5580,7 +5580,7 @@
  PGR_marxist_leninist_ADJ:0 "German"
  PGR_bolshevik_leninist_ADJ:0 "German"
  PGR_socialist_ADJ:0 "German"
- 
+
  SLV_national_socialist:0 "Republic of Slovenia"
  SLV_national_socialist_DEF:0 "The Republic of Slovenia"
  SLV_fascist:0 "Republic of Slovenia"
@@ -5701,7 +5701,7 @@
  SSB_marxist_leninist_ADJ:0 "German"
  SSB_bolshevik_leninist_ADJ:0 "German"
  SSB_socialist_ADJ:0 "German"
- 
+
  SRL_national_socialist:0 "Sri Lanka"
  SRL_national_socialist_DEF:0 "Sri Lanka"
  SRL_fascist:0 "Sri Lanka"
@@ -5763,7 +5763,7 @@
  SUD_marxist_leninist_ADJ:0 "Sudanese"
  SUD_bolshevik_leninist_ADJ:0 "Sudanese"
  SUD_socialist_ADJ:0 "Sudanese"
- 
+
  BAN_national_socialist:0 "Free State of Orissa"
  BAN_national_socialist_DEF:0 "The Free State of Orissa"
  BAN_fascist:0 "Free State of Orissa"
@@ -5822,7 +5822,7 @@
  NGA_marxist_leninist_ADJ:0 "Nigerian"
  NGA_bolshevik_leninist_ADJ:0 "Nigerian"
  NGA_socialist_ADJ:0 "Nigerian"
- 
+
  UGA_national_socialist:0 "Uganda"
  UGA_national_socialist_DEF:0 "Uganda"
  UGA_fascist:0 "Uganda"
@@ -5853,7 +5853,7 @@
  UGA_marxist_leninist_ADJ:0 "Ugandan"
  UGA_bolshevik_leninist_ADJ:0 "Ugandan"
  UGA_socialist_ADJ:0 "Ugandan"
- 
+
  TZN_national_socialist:0 "Tanganyika"
  TZN_national_socialist_DEF:0 "Tanganyika"
  TZN_fascist:0 "Tanganyika"
@@ -5884,7 +5884,7 @@
  TZN_marxist_leninist_ADJ:0 "Tanganyikan"
  TZN_bolshevik_leninist_ADJ:0 "Tanganyikan"
  TZN_socialist_ADJ:0 "Tanganyikan"
- 
+
  ZAN_national_socialist:0 "Zanzibar"
  ZAN_national_socialist_DEF:0 "Zanzibar"
  ZAN_fascist:0 "Zanzibar"
@@ -6645,7 +6645,7 @@
  GAM_marxist_leninist_ADJ:0 "Gambian"
  GAM_bolshevik_leninist_ADJ:0 "Gambian"
  GAM_socialist_ADJ:0 "Gambian"
- 
+
  EQG_national_socialist:0 "Equatorial Guinean State"
  EQG_national_socialist_DEF:0 "The Equatorial Guinean State"
  EQG_fascist:0 "Equatorial Guinean State"
@@ -6673,7 +6673,7 @@
  EQG_marxist_leninist_ADJ:0 "Equatorial Guinean"
  EQG_bolshevik_leninist_ADJ:0 "Equatorial Guinean"
  EQG_socialist_ADJ:0 "Equatorial Guinean"
- 
+
  TUN_national_socialist:0 "Tunisian State"
  TUN_national_socialist_DEF:0 "The Tunisian State"
  TUN_fascist:0 "Tunisian State"
@@ -6701,7 +6701,7 @@
  TUN_marxist_leninist_ADJ:0 "Tunisian"
  TUN_bolshevik_leninist_ADJ:0 "Tunisian"
  TUN_socialist_ADJ:0 "Tunisian"
- 
+
  SOM_national_socialist:0 "Somali State"
  SOM_national_socialist_DEF:0 "The Somali State"
  SOM_fascist:0 "Somali State"
@@ -6729,7 +6729,7 @@
  SOM_marxist_leninist_ADJ:0 "Somali"
  SOM_bolshevik_leninist_ADJ:0 "Somali"
  SOM_socialist_ADJ:0 "Somali"
- 
+
  DJI_national_socialist:0 "Djiboutian State"
  DJI_national_socialist_DEF:0 "The Djiboutian State"
  DJI_fascist:0 "Djiboutian State"
@@ -6757,7 +6757,7 @@
  DJI_marxist_leninist_ADJ:0 "Djiboutian"
  DJI_bolshevik_leninist_ADJ:0 "Djiboutian"
  DJI_socialist_ADJ:0 "Djiboutian"
- 
+
  MLW_national_socialist:0 "Malawian State"
  MLW_national_socialist_DEF:0 "The Malawian State"
  MLW_fascist:0 "Malawian State"
@@ -6785,7 +6785,7 @@
  MLW_marxist_leninist_ADJ:0 "Malawian"
  MLW_bolshevik_leninist_ADJ:0 "Malawian"
  MLW_socialist_ADJ:0 "Malawian"
- 
+
  ZAM_national_socialist:0 "Zambian State"
  ZAM_national_socialist_DEF:0 "The Zambian State"
  ZAM_fascist:0 "Zambian State"
@@ -6813,7 +6813,7 @@
  ZAM_marxist_leninist_ADJ:0 "Zambian"
  ZAM_bolshevik_leninist_ADJ:0 "Zambian"
  ZAM_socialist_ADJ:0 "Zambian"
- 
+
  SIE_national_socialist:0 "Sierra Leonese State"
  SIE_national_socialist_DEF:0 "The Sierra Leonese State"
  SIE_fascist:0 "Sierra Leonese State"
@@ -6841,7 +6841,7 @@
  SIE_marxist_leninist_ADJ:0 "Sierra Leonese"
  SIE_bolshevik_leninist_ADJ:0 "Sierra Leonese"
  SIE_socialist_ADJ:0 "Sierra Leonese"
- 
+
  GNB_national_socialist:0 "Bissau-Guinean State"
  GNB_national_socialist_DEF:0 "The Bissau-Guinean State"
  GNB_fascist:0 "Bissau-Guinean State"
@@ -6869,7 +6869,7 @@
  GNB_marxist_leninist_ADJ:0 "Bissau-Guinean"
  GNB_bolshevik_leninist_ADJ:0 "Bissau-Guinean"
  GNB_socialist_ADJ:0 "Bissau-Guinean"
- 
+
  NMB_national_socialist:0 "Namibian State"
  NMB_national_socialist_DEF:0 "The Namibian State"
  NMB_fascist:0 "Namibian State"
@@ -6897,7 +6897,7 @@
  NMB_marxist_leninist_ADJ:0 "Namibian"
  NMB_bolshevik_leninist_ADJ:0 "Namibian"
  NMB_socialist_ADJ:0 "Namibian"
- 
+
  MAD_national_socialist:0 "Madagascan State"
  MAD_national_socialist_DEF:0 "The Madagascan State"
  MAD_fascist:0 "Madagascan State"
@@ -6925,7 +6925,7 @@
  MAD_marxist_leninist_ADJ:0 "Madagascan"
  MAD_bolshevik_leninist_ADJ:0 "Madagascan"
  MAD_socialist_ADJ:0 "Madagascan"
- 
+
  ERI_national_socialist:0 "Eritrean State"
  ERI_national_socialist_DEF:0 "The Eritrean State"
  ERI_fascist:0 "Eritrean State"
@@ -6953,7 +6953,7 @@
  ERI_marxist_leninist_ADJ:0 "Eritrean"
  ERI_bolshevik_leninist_ADJ:0 "Eritrean"
  ERI_socialist_ADJ:0 "Eritrean"
- 
+
  KAT_national_socialist:0 "Katangan State"
  KAT_national_socialist_DEF:0 "The Katangan State"
  KAT_fascist:0 "Katangan State"
@@ -6981,7 +6981,7 @@
  KAT_marxist_leninist_ADJ:0 "Katangan"
  KAT_bolshevik_leninist_ADJ:0 "Katangan"
  KAT_socialist_ADJ:0 "Katangan"
- 
+
  BRD_national_socialist:0 "Burundian State"
  BRD_national_socialist_DEF:0 "The Burundian State"
  BRD_fascist:0 "Burundian State"
@@ -7009,7 +7009,7 @@
  BRD_marxist_leninist_ADJ:0 "Burundian"
  BRD_bolshevik_leninist_ADJ:0 "Burundian"
  BRD_socialist_ADJ:0 "Burundian"
- 
+
  RWA_national_socialist:0 "Rwandan State"
  RWA_national_socialist_DEF:0 "The Rwandan State"
  RWA_fascist:0 "Rwandan State"
@@ -7037,7 +7037,7 @@
  RWA_marxist_leninist_ADJ:0 "Rwandan"
  RWA_bolshevik_leninist_ADJ:0 "Rwandan"
  RWA_socialist_ADJ:0 "Rwandan"
- 
+
  SWA_national_socialist:0 "Swazi State"
  SWA_national_socialist_DEF:0 "The Swazi State"
  SWA_fascist:0 "Swazi State"
@@ -7065,7 +7065,7 @@
  SWA_marxist_leninist_ADJ:0 "Swazi"
  SWA_bolshevik_leninist_ADJ:0 "Swazi"
  SWA_socialist_ADJ:0 "Swazi"
- 
+
  LES_national_socialist:0 "Lesothoan State"
  LES_national_socialist_DEF:0 "The Lesothoan State"
  LES_fascist:0 "Lesothoan State"
@@ -7093,7 +7093,7 @@
  LES_marxist_leninist_ADJ:0 "Lesothoan"
  LES_bolshevik_leninist_ADJ:0 "Lesothoan"
  LES_socialist_ADJ:0 "Lesothoan"
- 
+
  DRF_national_socialist:0 "Darfuri State"
  DRF_national_socialist_DEF:0 "The Darfuri State"
  DRF_fascist:0 "Darfuri State"
@@ -7121,7 +7121,7 @@
  DRF_marxist_leninist_ADJ:0 "Darfuri"
  DRF_bolshevik_leninist_ADJ:0 "Darfuri"
  DRF_socialist_ADJ:0 "Darfuri"
- 
+
  ARD_national_socialist:0 "South Sudanese State"
  ARD_national_socialist_DEF:0 "The South Sudanese State"
  ARD_fascist:0 "South Sudanese State"
@@ -7149,7 +7149,7 @@
  ARD_marxist_leninist_ADJ:0 "South Sudanese"
  ARD_bolshevik_leninist_ADJ:0 "South Sudanese"
  ARD_socialist_ADJ:0 "South Sudanese"
- 
+
  AZA_national_socialist:0 "Azawadi State"
  AZA_national_socialist_DEF:0 "The Azawadi State"
  AZA_fascist:0 "Azawadi State"
@@ -7177,7 +7177,7 @@
  AZA_marxist_leninist_ADJ:0 "Azawadi"
  AZA_bolshevik_leninist_ADJ:0 "Azawadi"
  AZA_socialist_ADJ:0 "Azawadi"
- 
+
  BRT_national_socialist:0 "Barotse State"
  BRT_national_socialist_DEF:0 "The Barotse State"
  BRT_fascist:0 "Barotse State"
@@ -7205,7 +7205,7 @@
  BRT_marxist_leninist_ADJ:0 "Barotse"
  BRT_bolshevik_leninist_ADJ:0 "Barotse"
  BRT_socialist_ADJ:0 "Barotse"
- 
+
  SAH_national_socialist:0 "Sahwarian State"
  SAH_national_socialist_DEF:0 "The Sahwarian State"
  SAH_fascist:0 "Sahwarian State"
@@ -7233,7 +7233,7 @@
  SAH_marxist_leninist_ADJ:0 "Sahwarian"
  SAH_bolshevik_leninist_ADJ:0 "Sahwarian"
  SAH_socialist_ADJ:0 "Sahwarian"
- 
+
  BIA_national_socialist:0 "Biafran State"
  BIA_national_socialist_DEF:0 "The Biafran State"
  BIA_fascist:0 "Biafran State"
@@ -7261,7 +7261,7 @@
  BIA_marxist_leninist_ADJ:0 "Biafran"
  BIA_bolshevik_leninist_ADJ:0 "Biafran"
  BIA_socialist_ADJ:0 "Biafran"
- 
+
  ZAI_national_socialist:0 "Zaire"
  ZAI_national_socialist_DEF:0 "Zaire"
  ZAI_fascist:0 "Zaire"
@@ -7289,7 +7289,7 @@
  ZAI_marxist_leninist_ADJ:0 "Kongolese"
  ZAI_bolshevik_leninist_ADJ:0 "Kongolese"
  ZAI_socialist_ADJ:0 "Kongolese"
- 
+
  ZUL_national_socialist:0 "Zululand"
  ZUL_national_socialist_DEF:0 "Zululand"
  ZUL_fascist:0 "Zululand"
@@ -7376,13 +7376,13 @@
  CMA_START_marxist_leninist:0 "Malayan National Liberation Army"
  CMA_START_marxist_leninist_DEF:0 "The Malayan National Liberation Army"
  CMA_START_marxist_leninist_ADJ:0 "Communist Malayan"
- 
+
  ##########SIS############
  SIS_marxist_leninist:0 "The Siberian Isles Soviet"
  SIS_marxist_leninist_DEF:0 "The Siberian Isles Soviet"
  SIS_bolshevik_leninist:0 "The Siberian Isles Soviet"
  SIS_bolshevik_leninist_DEF:0 "The Siberian Isles Soviet"
- 
+
  BGS_national_socialist:0 "Schwarzmeerdeutsche Liga"
  BGS_national_socialist_DEF:0 "The Schwarzmeerdeutsche Liga"
  BGS_fascist:0 "Schwarzmeerdeutsche Liga"
@@ -7728,7 +7728,7 @@
  BAR_marxist_leninist_ADJ:0 "Barbary"
  BAR_bolshevik_leninist_ADJ:0 "Barbary"
  BAR_socialist_ADJ:0 "Barbary"
-    
+
  NIR_national_socialist:0 "Ulster Protectorate"
  NIR_national_socialist_DEF:0 "The Ulster Protectorate"
  NIR_fascist:0 "Ulster Protectorate"
