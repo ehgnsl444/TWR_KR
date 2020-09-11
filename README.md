@@ -2,9 +2,7 @@
 ## 번역중인 문서 [(이 곳을 눌러 이동)](https://github.com/Translation-Team/TWR_KR/blob/master/%EB%B2%88%EC%97%AD%20%EB%AA%A9%EB%A1%9D.md)
 ### 안내 및 경고
 - 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주시면 됩니다.
-  - 필요시 [한글라이즈](https://hangulize.org)나 [한어병음/일문가나 한글표기 변환 도구](https://boncho.kiom.re.kr/tool/index.htm), 그리고 `Issue`탭을 활용해 주세요.
 - 이 외에 번역과 관련된 토론은 상단 `Issues` 탭에 올려주시면 답해드리겠습니다.
-- **번역기를 사용한 문장을 그대로 붙여넣지 마십시오. 1차 경고 이후에 지속될 경우, Block 등의 조치를 취하겠습니다.**
 - **이미 [Pull requests](https://github.com/Translation-Team/TWR_KR/pulls)에 대기 중인 파일을 번역하셨다면, 얼마나 더 하시든 관리자가 가장 최근에 수락한 것만 적용됩니다. `Pull requests`에서 해당 파일이 사라지기 이전까지 다른 파일을 작업해주세요.**
 ***
 ### 번역 규칙
