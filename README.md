@@ -1,5 +1,5 @@
 ## 번역 방법 [(이 곳을 눌러 이동)](https://github.com/Translation-Team/TWR_KR/wiki)
-## 번역중인 문서 [(이 곳을 눌러 이동)](https://github.com/Translation-Team/TWR_KR/blob/master/%EB%B2%88%EC%97%AD%20%EB%AA%A9%EB%A1%9D.md)
+## 번역중인 문서 [(이 곳을 눌러 이동)](https://github.com/Translation-Team/TWR_KR/blob/master/%EB%B2%88%EC%97%AD%EC%A4%91%EC%9D%B8%20%EB%AC%B8%EC%84%9C%EB%AA%A9%EB%A1%9D.md)
 ### 안내 및 경고
 - 한번도 번역되지 않은 지명, 인명들은 적당히 발음나는 대로 적어주시면 됩니다.
 - 이 외에 번역과 관련된 토론은 상단 `Issues` 탭에 올려주시면 답해드리겠습니다.
